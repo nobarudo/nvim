@@ -29,4 +29,5 @@ return {
   {
     "alaviss/nim.nvim",
   },
+  { "nvim-mini/mini.comment", version = false },
 }
